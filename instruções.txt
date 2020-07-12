@@ -1,0 +1,3 @@
+activate dand (nome do ambiente)
+
+jupyter notebook
