@@ -1,3 +1,7 @@
+abrir Anaconda Prompt
+
+cd pasta do projeto
+
 activate dand (nome do ambiente)
 
 jupyter notebook
